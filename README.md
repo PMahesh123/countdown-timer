@@ -14,8 +14,8 @@ Reset Functionality: Easily start a new countdown
 ### Technologies Used
 
 HTML5
-CSS3 (with animations)
-JavaScript (ES6)
+CSS3 
+JavaScript
 
 
 ### Usage
